@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
         String test = "test";
         System.out.println(test);
         String test2;
+        String branchTest = "androidBranch";
 
     }
 }
