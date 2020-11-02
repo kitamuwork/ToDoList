@@ -39,6 +39,9 @@ public class MainActivity extends AppCompatActivity {
         RealmConfiguration realmConfiguration = new RealmConfiguration.Builder().build();
         Realm realm = Realm.getInstance(realmConfiguration);
 
+        String test = "test";
+        System.out.println(test);
+
     }
 }
 
