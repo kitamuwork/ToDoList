@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
 
         String test = "test";
         System.out.println(test);
+        String test2;
 
     }
 }
